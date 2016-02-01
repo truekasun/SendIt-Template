@@ -1,6 +1,9 @@
 SendIt!
 ===================
-SendIt template is initially created as a landing page for [**SendIt email delivery API**](http://sendit.azurewebsites.net/) that provides ability to send email from a JavaScript POST request. I'm releasing this template on the GitHub in-case if anyone needs a tiny single page HTML/CSS template.
+
+![Preview of the template](https://raw.githubusercontent.com/truekasun/SendIt/master/Preview.png)
+
+**SendIt** template is initially created as a landing page for [**SendIt email delivery API**](http://sendit.azurewebsites.net/) that provides ability to send email from a JavaScript POST request. I'm releasing this template on the GitHub in-case if anyone needs a tiny single page HTML/CSS template.
 
 ---------
 
