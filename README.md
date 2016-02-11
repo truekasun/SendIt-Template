@@ -1,4 +1,4 @@
-SendIt!
+SendIt! - Template
 ===================
 
 ![Preview of the template](https://raw.githubusercontent.com/truekasun/SendIt-Template/master/Preview.png)
